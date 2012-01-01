@@ -14,16 +14,16 @@
 // ------------------------------------------------------------------------
 
 if (!function_exists('curl_init')) {
-  die('Mindtalk.php needs the CURL PHP extension.');
+	die('Mindtalk.php needs the CURL PHP extension.');
 }
 if (!function_exists('json_decode')) {
-  die('Mindtalk.php needs the JSON PHP extension.');
+	die('Mindtalk.php needs the JSON PHP extension.');
 }
 if (!function_exists('simplexml_load_string')) {
-  die('Mindtalk.php needs the simplexml_load_string PHP extension.');
+	die('Mindtalk.php needs the simplexml_load_string PHP extension.');
 }
 if (!class_exists('DOMDocument')) {
-  die('Mindtalk.php needs the DOMDocument PHP extension.');
+	die('Mindtalk.php needs the DOMDocument PHP extension.');
 }
 
 /**
