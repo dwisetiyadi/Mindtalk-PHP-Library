@@ -1,6 +1,6 @@
 # Mindtalk API - PHP Library
 
-Since Digaku changed became Mindtalk, so we need to make new library (for changed and deprecated API).
+Since Digaku changed became Mindtalk, so we need to make a new library (for changed and deprecated API).
 
 ### AVAILABLE API
 * Call API (Authentic API)
