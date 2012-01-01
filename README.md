@@ -5,6 +5,7 @@ Since Digaku changed became Mindtalk, so we need to make new library (for change
 ### AVAILABLE API
 * Call API (Authentic API)
 * Post API (Authentic API)
+
 Please see Web API documentation [http://developer.digaku.com/api/wiki/APIResources](http://developer.digaku.com/api/wiki/APIResources "API Resource")
 
 ### How to (sorry my english is very bad):
